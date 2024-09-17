@@ -1,0 +1,49 @@
+jQuery("#simulation")
+  .on("pageload", ".s-d1905585-9ff7-4568-b9f5-4aa84c7d1930 .pageload", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(jimUtil.isAlternateModeActive()) return;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    event.data = data;
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-Image_1")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimRotate",
+                  "parameter": {
+                    "target": [ "#s-Image_1" ],
+                    "angle": {
+                      "type": "rotateto",
+                      "value": "1000.0"
+                    },
+                    "effect": {
+                      "type": "none",
+                      "easing": "linear",
+                      "duration": 5000
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/c9037aad-8aac-4dd8-afba-0ab0a69bfbd8"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    }
+  });
