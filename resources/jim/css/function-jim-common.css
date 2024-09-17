@@ -1,6 +1,6 @@
 /*** start generic styles ***/
 * { padding: 0px; margin: 0px; outline: none; zoom: 1; -webkit-tap-highlight-color: transparent; }
-html, body { background-color: transparent; width: 100%; height: 100%; user-select: none;}
+html, body { background-color: transparent; width: 100%; height: 100%; }
 table { border-spacing: 0px; /*CHROME-BUG: border-collapse: collapse;*/ }
 a { text-decoration: none; }
 a:visited { text-decoration: none; }
@@ -58,8 +58,8 @@ body.component #jim-body {
 #jim-mobile{ display:none; }
 #toppanel{ display:none; }
 
-#jim-web #web-clip-left{ position: absolute; left: 0; width: 328px; height: 100%; background-color: #ffffff; z-index: 3;}
-#jim-web #web-clip-right{ position: absolute; right: 0px; top: 0px; width: 327px; height: 100%; background-color: #ffffff; z-index: 3;}
+#jim-web #web-clip-left{ position: absolute; left: 0; width: 328px; height: 100%; background-color: #f6f7f8; z-index: 3;}
+#jim-web #web-clip-right{ position: absolute; right: 0px; top: 0px; width: 327px; height: 100%; background-color: #f6f7f8; z-index: 3;}
 .ui-page.invisible, .ui-page.invisible * { visibility:hidden !important; }
 .ui-page.visible { visibility:visible; } 
 
@@ -288,7 +288,7 @@ _:-ms-fullscreen, :root .scenarioShape.autofit .borderLayer, _:-ms-fullscreen, :
 .valign { display: table-cell; vertical-align: inherit; text-align: inherit; }
 .dropdown .paddingLayer, .dropdown .borderLayer, .dropdown .content { vertical-align: inherit; }
 .layout { height: 100%; width: 100%; position: relative; }
-.textcell > .cellContainerChild > .borderLayer > .paddingLayer > .clipping { height: inherit; width: inherit; position: relative; box-sizing: border-box; overflow: auto; }
+.textcell > .cellContainerChild > .borderLayer > .paddingLayer > .clipping { height: inherit; width: inherit; position: relative; box-sizing: border-box; }
 table.layout { overflow: auto; height: 100%; width: 100%;} /* overflow: auto --> chrome bug: allow scrollbars */
 td.layout {font-size: 0; width: 100%; height: 100%;}
 td.layout > * { vertical-align: inherit; }

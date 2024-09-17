@@ -2,8 +2,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1726171296532.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/fonts-1726171296532.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1726593446716.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/fonts-1726593446716.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -13,8 +13,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-c9037aad-8aac-4dd8-afba-0ab0a69bfbd8" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Choose Mode"width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c9037aad-8aac-4dd8-afba-0ab0a69bfbd8/style-1726171296532.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c9037aad-8aac-4dd8-afba-0ab0a69bfbd8/fonts-1726171296532.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c9037aad-8aac-4dd8-afba-0ab0a69bfbd8/style-1726593446716.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c9037aad-8aac-4dd8-afba-0ab0a69bfbd8/fonts-1726593446716.css" />\
       <div class="freeLayout">\
       <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="rotunda dusk"   datasizewidth="1280.00px" datasizeheight="800.12px" dataX="-0.00" dataY="-0.06"   alt="image">\
         <div class="borderLayer">\
@@ -218,7 +218,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                   </td>\
                 </tr>\
                 <tr>\
-                  <td id="s-Cell_16" customid="Cell 8" class="cellcontainer firer variablechange ie-background non-processed"    datasizewidth="32.33px" datasizeheight="35.69px" dataX="0.00" dataY="0.00" originalwidth="31.333333333332817px" originalheight="34.687500000000036px" >\
+                  <td id="s-Cell_16" customid="Cell 8" class="cellcontainer firer non-processed"    datasizewidth="32.33px" datasizeheight="35.69px" dataX="0.00" dataY="0.00" originalwidth="31.333333333332817px" originalheight="34.687500000000036px" >\
                     <div class="cellContainerChild">\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
@@ -244,7 +244,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           </div>\
         </div>\
       </div>\
-      <div id="s-Rectangle_4" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1" rotationdeg="90.0"  datasizewidth="30.00px" datasizeheight="34.50px" datasizewidthpx="30.0" datasizeheightpx="34.5" dataX="902.00" dataY="722.50" >\
+      <div id="s-Rectangle_4" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1" rotationdeg="90.0"  datasizewidth="30.00px" datasizeheight="34.50px" datasizewidthpx="30.0" datasizeheightpx="34.5" dataX="1336.33" dataY="722.75" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1804,7 +1804,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                             </td>\
                           </tr>\
                           <tr>\
-                            <td id="s-Cell_32" customid="Cell 8" class="cellcontainer firer ie-background non-processed"    datasizewidth="33.33px" datasizeheight="39.08px" dataX="0.00" dataY="0.00" originalwidth="32.333333333333044px" originalheight="38.08333333333336px" >\
+                            <td id="s-Cell_32" customid="Cell 8" class="cellcontainer firer non-processed"    datasizewidth="33.33px" datasizeheight="39.08px" dataX="0.00" dataY="0.00" originalwidth="32.333333333333044px" originalheight="38.08333333333336px" >\
                               <div class="cellContainerChild">\
                                 <div class="backgroundLayer">\
                                   <div class="colorLayer"></div>\
@@ -1840,21 +1840,6 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                       <div class="content">\
                         <div class="valign">\
                           <span id="rtr-s-Button_27_0">MUTE</span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-                <div id="s-Rectangle_29" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="31.50px" datasizeheight="37.00px" datasizewidthpx="31.5" datasizeheightpx="37.0" dataX="1006.20" dataY="399.61" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Rectangle_29_0"></span>\
                         </div>\
                       </div>\
                     </div>\
@@ -2141,6 +2126,21 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-Rectangle_28_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_29" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="31.50px" datasizeheight="37.00px" datasizewidthpx="31.5" datasizeheightpx="37.0" dataX="1419.63" dataY="721.89" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_29_0"></span>\
               </div>\
             </div>\
           </div>\
