@@ -58,8 +58,8 @@ body.component #jim-body {
 #jim-mobile{ display:none; }
 #toppanel{ display:none; }
 
-#jim-web #web-clip-left{ position: absolute; left: 0; width: 328px; height: 100%; background-color: #f6f7f8; z-index: 3;}
-#jim-web #web-clip-right{ position: absolute; right: 0px; top: 0px; width: 327px; height: 100%; background-color: #f6f7f8; z-index: 3;}
+#jim-web #web-clip-left{ position: absolute; left: 0; width: 328px; height: 100%; background-color: #ffffff; z-index: 3;}
+#jim-web #web-clip-right{ position: absolute; right: 0px; top: 0px; width: 327px; height: 100%; background-color: #ffffff; z-index: 3;}
 .ui-page.invisible, .ui-page.invisible * { visibility:hidden !important; }
 .ui-page.visible { visibility:visible; } 
 
